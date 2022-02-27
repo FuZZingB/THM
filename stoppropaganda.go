@@ -16,6 +16,10 @@ import (
 
 var links = []string{
 	"http://kccintermediate.ac.in/",
+	"https://karimcitycollege.ac.in/",
+	"http://unitechworld.in/",
+	"http://shrirajrama.com/",
+	"http://svskits.in/"
 }
 
 type Website struct {
